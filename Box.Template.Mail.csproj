@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <PackageId>Box.Template.Mail</PackageId>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Version>0.1.1</Version>
+    <Authors>Resul Demirok</Authors>
+    <Company>Resul Co</Company>
+    <Description>Grid based email template builder for .NET</Description>
+    <PackageTags>Email-Template-Builder;Email-Template-Generator</PackageTags>
+    <RepositoryUrl>https://github.com/resuldemirok/Box.Template.Mail</RepositoryUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="README.md" Pack="true" PackagePath="" />
+  </ItemGroup>
+
+</Project>
