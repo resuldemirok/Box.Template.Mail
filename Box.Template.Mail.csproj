@@ -4,11 +4,11 @@
     <TargetFramework>net8.0</TargetFramework>
     <PackageId>Box.Template.Mail</PackageId>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <Version>0.1.1</Version>
+    <Version>0.1.2</Version>
     <Authors>Resul Demirok</Authors>
     <Company>Resul Co</Company>
     <Description>Grid based email template builder for .NET</Description>
-    <PackageTags>Email-Template-Builder;Email-Template-Generator</PackageTags>
+    <PackageTags>email;template;builder;html-email;email-template;templating;aspnetcore;dotnet;notification</PackageTags>
     <RepositoryUrl>https://github.com/resuldemirok/Box.Template.Mail</RepositoryUrl>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
